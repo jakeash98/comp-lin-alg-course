@@ -1,4 +1,7 @@
-'''Tests for the first exercise set.'''
+'''
+Tests for the first exercise set.
+Jake Ash
+'''
 import pytest
 import cla_utils
 from numpy import random
